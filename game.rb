@@ -1,3 +1,4 @@
+#code for snake and ladder
 @players = []
 @current_position = []
 @snake_pos =[[37,1],[25,5],[47,9],[65,59],[99,62],[87,54],[92,69]]
